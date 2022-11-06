@@ -1,0 +1,23 @@
+{
+	"/": [
+		"src/routes/+page.ts"
+	],
+	"/about": [
+		"src/routes/about/+page.ts"
+	],
+	"/sverdle": [
+		"src/routes/sverdle/+page.server.ts"
+	],
+	"/sverdle/how-to-play": [
+		"src/routes/sverdle/how-to-play/+page.ts"
+	],
+	"/posts": [
+		"src/routes/posts/+server.ts"
+	],
+	"/search": [
+		"src/routes/search/+page.ts"
+	],
+	"/blog/[id]": [
+		"src/routes/blog/[id]/+page.ts"
+	]
+}
